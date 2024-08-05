@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gopal/ros/bumperbot_ws/devel/setup.sh
